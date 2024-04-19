@@ -1,4 +1,5 @@
-# Customer-Segmentation-Analysis-for-E-Commerce
+# E-Commerce-Marketing-Analytics
+
 This project focuses on exploratory data analysis of an e-commerce dataset, including product and order information, to gain insights into the business.
 
 ## **Overview**
